@@ -1,4 +1,4 @@
 SharpTools
 ==========
 
-A support library for C# comprised of various class objects
+A support library for C# comprised of various class files
